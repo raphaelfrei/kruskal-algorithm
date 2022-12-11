@@ -1,0 +1,15 @@
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\obj\Debug\net6.0-windows\kruskal_algorithm.csproj.AssemblyReference.cache
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\obj\Debug\net6.0-windows\kruskal_algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\obj\Debug\net6.0-windows\kruskal_algorithm.AssemblyInfoInputs.cache
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\obj\Debug\net6.0-windows\kruskal_algorithm.AssemblyInfo.cs
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\obj\Debug\net6.0-windows\kruskal_algorithm.csproj.CoreCompileInputs.cache
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\bin\Debug\net6.0-windows\kruskal_algorithm.exe
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\bin\Debug\net6.0-windows\kruskal_algorithm.deps.json
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\bin\Debug\net6.0-windows\kruskal_algorithm.runtimeconfig.json
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\bin\Debug\net6.0-windows\kruskal_algorithm.dll
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\bin\Debug\net6.0-windows\kruskal_algorithm.pdb
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\obj\Debug\net6.0-windows\kruskal_algorithm.dll
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\obj\Debug\net6.0-windows\refint\kruskal_algorithm.dll
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\obj\Debug\net6.0-windows\kruskal_algorithm.pdb
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\obj\Debug\net6.0-windows\kruskal_algorithm.genruntimeconfig.cache
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\obj\Debug\net6.0-windows\ref\kruskal_algorithm.dll

@@ -1,0 +1,5 @@
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\obj\Debug\net6.0\kruskal_algorithm.csproj.AssemblyReference.cache
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\obj\Debug\net6.0\kruskal_algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\obj\Debug\net6.0\kruskal_algorithm.AssemblyInfoInputs.cache
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\obj\Debug\net6.0\kruskal_algorithm.AssemblyInfo.cs
+D:\Código\CSharp\Kruskal\kruskal_algorithm\kruskal_algorithm\obj\Debug\net6.0\kruskal_algorithm.csproj.CoreCompileInputs.cache
