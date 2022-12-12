@@ -1,6 +1,6 @@
 # Kruskal Algorithm - Minimum Spanning Tree
 **Details:** Kruskal Algorithm in C# and Portugol for College Activity.<br>
-**Subject:** Graph Theory
+**Subject:** Graph Theory.
 
 The PDF attached is my handwritten guide about MST.
 
